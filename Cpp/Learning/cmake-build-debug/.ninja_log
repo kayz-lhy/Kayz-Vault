@@ -1,0 +1,6 @@
+# ninja log v5
+6	716	7053413275761276	CMakeFiles/Learning.dir/main.cpp.obj	5f2c478972270a46
+536	716	7048944424820727	Learning.exe	4a168d4a9ffa374a
+595	751	7053414650605807	templateTest.exe	372feeabd1ca8ae0
+11	734	7053413275955273	CMakeFiles/Learning.dir/src/templateTest.cpp.obj	da671ec4467d6bdc
+4	595	7053414648765596	CMakeFiles/templateTest.dir/src/templateTest.cpp.obj	925edba1ac6f2951
