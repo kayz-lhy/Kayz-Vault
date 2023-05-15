@@ -1,5 +1,6 @@
-import random
-import string
+# generate a random string and count each character, output the result dict in order of its value
+from random import choice
+from string import ascii_lowercase, ascii_uppercase, digits
 
 
 def main():
