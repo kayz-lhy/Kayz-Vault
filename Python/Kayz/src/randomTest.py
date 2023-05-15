@@ -14,6 +14,7 @@ def main():
         else:
             dic[char] += 1
     new_dic = sorted(dic.items(), key=lambda x: x[1], reverse=True)
+    # dict.items() is a tuple object and x[1] is the value of each item
     print(dict(new_dic))
 
 
