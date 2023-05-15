@@ -6,7 +6,7 @@ from string import ascii_lowercase, ascii_uppercase, digits
 def main():
     test_str = ''
     for i in range(500):
-        test_str += random.choice(string.ascii_lowercase + string.ascii_uppercase + string.digits)
+        test_str += choice(ascii_lowercase + ascii_uppercase + digits)
     print(test_str)
     dic = {}
     for char in test_str:
